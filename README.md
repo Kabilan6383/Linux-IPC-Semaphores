@@ -102,6 +102,8 @@ int main(int argc, char* argv[]) {
 ```
 ## OUTPUT
 $ gcc -o sem.o sem.c
+
+
 $ ./sem.o 
 ![alt text](sem.c.png)
 
