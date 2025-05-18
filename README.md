@@ -104,11 +104,13 @@ $ gcc -o sem.o sem.c
 
 
 $ ./sem.o 
-![alt text](sem.c.png)
+![Screenshot 2025-05-18 211151](https://github.com/user-attachments/assets/d1d00fee-f7bd-405a-bb89-84b676e23300)
+
 
 $ ipcs
 
-![alt text](<sem.c ipcs.png>)
+![Screenshot 2025-05-18 211025](https://github.com/user-attachments/assets/255e8ba3-364b-4266-9fb9-3b0a2103bf34)
+
 
 
 
